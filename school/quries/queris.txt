@@ -1,0 +1,1 @@
+INSERT INTO `trip` (`sno`, `name`, `age`, `gender`, `email`, `phone`, `other`, `dt`) VALUES ('1', 'testname', '23', 'male', 'shah@gmail.com', '9999991233', 'this my first ever php message', current_timestamp());
